@@ -1,0 +1,22 @@
+.container{
+    width: 100%;
+    height: 100px;
+}
+
+.fisrt-image {
+    float: left;
+    margin-right: 100px;
+}
+.first-p {
+    margin-left: 120px;
+}
+
+.second-image {
+    float: right;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.second-p {
+    margin-top: 300px;
+    margin-left: 100px;  
+}
